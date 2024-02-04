@@ -5,7 +5,7 @@ title: Stars, The Cosmic Beacons of Light and Life
 
 # Stars: The Cosmic Beacons of Light and Life
 
-Posted on: 2024-02-04
+Posted on: 2600-12-29
 
 ### By: Starry-eyed Observer
 
