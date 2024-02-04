@@ -30,7 +30,6 @@ nav {
     margin: 40px auto 0 auto;
     width: 250px;
     border-radius: 50px;
-    /* background: #ffffff; */
 }
 
 nav ul {
@@ -55,7 +54,7 @@ nav ul li a {
 }
 
 a:hover {
-    letter-spacing: 3px;
+    letter-spacing: 2px;
 }
 
 section a:hover {
@@ -80,8 +79,4 @@ h1 strong {
     background: linear-gradient(45deg, rgb(77, 19, 67) 0%, rgb(45, 204, 253) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-}
-
-img.about {
-    opacity: 0.5;
 }
